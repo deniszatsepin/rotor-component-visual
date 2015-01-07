@@ -1,2 +1,2 @@
-rotor-component
+rotor-component-visual
 ===============
