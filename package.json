@@ -1,0 +1,35 @@
+{
+  "name": "rotor-component-visual",
+  "version": "0.0.1",
+  "description": "Rotor visual component.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deniszatsepin/rotor-component-visual"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "rotor",
+    "game"
+  ],
+  "author": "Denis Zatsepin <denis@zatsepin.spb.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "rotor-component": "latest"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0",
+    "gulp-mocha": "^2.0.0",
+    "jshint-stylish": "^1.0.0",
+    "mocha": "^2.1.0",
+    "sinon": "^1.12.2",
+    "sinon-chai": "^2.6.0"
+  }
+}
